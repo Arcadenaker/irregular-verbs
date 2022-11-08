@@ -1,0 +1,834 @@
+[{
+    "id": "0",
+    "infinitive": ["Be"],
+    "simple_past": ["Was", "Were"],
+    "past_participe": ["Been"],
+    "traduction_fr": ["Etre"],
+    "traduction_es": ["Estar"]
+}, {
+    "id": 1,
+    "infinitive": ["Beat"],
+    "simple_past": ["Beat"],
+    "past_participe": ["Beaten"],
+    "traduction_fr": ["Battre"],
+    "traduction_es": ["Pelearse"]
+}, {
+    "id": 2,
+    "infinitive": ["Become"],
+    "simple_past": ["Became"],
+    "past_participe": ["Become"],
+    "traduction_fr": ["Devenir"],
+    "traduction_es": ["Volverse"]
+}, {
+    "id": 3,
+    "infinitive": ["Begin"],
+    "simple_past": ["Began"],
+    "past_participe": ["Begun"],
+    "traduction_fr": ["Commencer"],
+    "traduction_es": ["Comenzar"]
+}, {
+    "id": 4,
+    "infinitive": ["Bend"],
+    "simple_past": ["Bent"],
+    "past_participe": ["Bent"],
+    "traduction_fr": ["Plier"],
+    "traduction_es": ["Recodo"]
+}, {
+    "id": 5,
+    "infinitive": ["Bite"],
+    "simple_past": ["Bit"],
+    "past_participe": ["Bitten"],
+    "traduction_fr": ["Mordre"],
+    "traduction_es": ["Morder"]
+}, {
+    "id": 6,
+    "infinitive": ["Bleed"],
+    "simple_past": ["Bled"],
+    "past_participe": ["Bled"],
+    "traduction_fr": ["Saigner"],
+    "traduction_es": ["Sangrar"]
+}, {
+    "id": 7,
+    "infinitive": ["Blow"],
+    "simple_past": ["Blew"],
+    "past_participe": ["Blown"],
+    "traduction_fr": ["Souffler"],
+    "traduction_es": ["Soplar"]
+}, {
+    "id": 8,
+    "infinitive": ["Break"],
+    "simple_past": ["Broke"],
+    "past_participe": ["Broken"],
+    "traduction_fr": ["Casser"],
+    "traduction_es": ["Romper"]
+}, {
+    "id": 9,
+    "infinitive": ["Bring"],
+    "simple_past": ["Brought"],
+    "past_participe": ["Brought"],
+    "traduction_fr": ["Apporter"],
+    "traduction_es": ["LLevar"]
+}, {
+    "id": 10,
+    "infinitive": ["Build"],
+    "simple_past": ["Built"],
+    "past_participe": ["Built"],
+    "traduction_fr": ["Construire"],
+    "traduction_es": ["Construir"]
+}, {
+    "id": 11,
+    "infinitive": ["Burn"],
+    "simple_past": ["Burnt", "Burned"],
+    "past_participe": ["Burnt", "Burned"],
+    "traduction_fr": ["Bruler"],
+    "traduction_es": ["Quemar"]
+}, {
+    "id": 12,
+    "infinitive": ["Burst"],
+    "simple_past": ["Burst"],
+    "past_participe": ["Burst"],
+    "traduction_fr": ["Eclater"],
+    "traduction_es": ["Explotar"]
+}, {
+    "id": 13,
+    "infinitive": ["Buy"],
+    "simple_past": ["Bought"],
+    "past_participe": ["Bought"],
+    "traduction_fr": ["Acheter"],
+    "traduction_es": ["Comprar"]
+}, {
+    "id": 14,
+    "infinitive": ["Catch"],
+    "simple_past": ["Caught"],
+    "past_participe": ["Caught"],
+    "traduction_fr": ["Attraper"],
+    "traduction_es": ["Coger"]
+}, {
+    "id": 15,
+    "infinitive": ["Choose"],
+    "simple_past": ["Chose"],
+    "past_participe": ["Chosen"],
+    "traduction_fr": ["Choisir"],
+    "traduction_es": ["Elegir"]
+}, {
+    "id": 16,
+    "infinitive": ["Come"],
+    "simple_past": ["Came"],
+    "past_participe": ["Come"],
+    "traduction_fr": ["Venir"],
+    "traduction_es": ["Venir"]
+}, {
+    "id": 17,
+    "infinitive": ["Cost"],
+    "simple_past": ["Cost"],
+    "past_participe": ["Cost"],
+    "traduction_fr": ["Couter"],
+    "traduction_es": ["Costar"]
+}, {
+    "id": 18,
+    "infinitive": ["Cut"],
+    "simple_past": ["Cut"],
+    "past_participe": ["Cut"],
+    "traduction_fr": ["Couper"],
+    "traduction_es": ["Cortar"]
+}, {
+    "id": 19,
+    "infinitive": ["Do", "Make"],
+    "simple_past": ["Did", "Made"],
+    "past_participe": ["Done", "Made"],
+    "traduction_fr": ["Faire"],
+    "traduction_es": ["Hacer"]
+}, {
+    "id": 20,
+    "infinitive": ["Draw"],
+    "simple_past": ["Drew"],
+    "past_participe": ["Drawn"],
+    "traduction_fr": ["Dessiner"],
+    "traduction_es": ["Dibujar"]
+}, {
+    "id": 21,
+    "infinitive": ["Dream"],
+    "simple_past": ["Dreamt"],
+    "past_participe": ["Dreamt"],
+    "traduction_fr": ["Rever"],
+    "traduction_es": ["Sonar"]
+}, {
+    "id": 22,
+    "infinitive": ["Drink"],
+    "simple_past": ["Drank"],
+    "past_participe": ["Drunk"],
+    "traduction_fr": ["Boire"],
+    "traduction_es": ["Beber"]
+}, {
+    "id": 23,
+    "infinitive": ["Drive"],
+    "simple_past": ["Drove"],
+    "past_participe": ["Driven"],
+    "traduction_fr": ["Conduire"],
+    "traduction_es": ["Conducir"]
+}, {
+    "id": 24,
+    "infinitive": ["Eat"],
+    "simple_past": ["Ate"],
+    "past_participe": ["Eaten"],
+    "traduction_fr": ["Manger"],
+    "traduction_es": ["Comer"]
+}, {
+    "id": 25,
+    "infinitive": ["Fall"],
+    "simple_past": ["Fell"],
+    "past_participe": ["Fallen"],
+    "traduction_fr": ["Tomber"],
+    "traduction_es": ["Caer"]
+}, {
+    "id": 26,
+    "infinitive": ["Feed"],
+    "simple_past": ["Fed"],
+    "past_participe": ["Fed"],
+    "traduction_fr": ["Nourrir"],
+    "traduction_es": ["Alimentarse"]
+}, {
+    "id": 27,
+    "infinitive": ["Feel"],
+    "simple_past": ["Felt"],
+    "past_participe": ["Felt"],
+    "traduction_fr": ["Ressentir"],
+    "traduction_es": ["Sentir"]
+}, {
+    "id": 28,
+    "infinitive": ["Fight"],
+    "simple_past": ["Fought"],
+    "past_participe": ["Fought"],
+    "traduction_fr": ["Combattre"],
+    "traduction_es": ["Luchar"]
+}, {
+    "id": 29,
+    "infinitive": ["Find"],
+    "simple_past": ["Found"],
+    "past_participe": ["Found"],
+    "traduction_fr": ["Trouver"],
+    "traduction_es": ["Encontrar"]
+}, {
+    "id": 30,
+    "infinitive": ["Fly", "Steal"],
+    "simple_past": ["Flew", "Stole"],
+    "past_participe": ["Flown", "Stolen"],
+    "traduction_fr": ["Voler"],
+    "traduction_es": ["Volar", "Robar"]
+}, {
+    "id": 31,
+    "infinitive": ["Forget"],
+    "simple_past": ["Forgot"],
+    "past_participe": ["Forgotten"],
+    "traduction_fr": ["Oublier"],
+    "traduction_es": ["Olvidar"]
+}, {
+    "id": 32,
+    "infinitive": ["Forgive"],
+    "simple_past": ["Forgave"],
+    "past_participe": ["Forgiven"],
+    "traduction_fr": ["Pardonner"],
+    "traduction_es": ["Perdonar"]
+}, {
+    "id": 33,
+    "infinitive": ["Freeze"],
+    "simple_past": ["Froze"],
+    "past_participe": ["Frozen"],
+    "traduction_fr": ["Geler"],
+    "traduction_es": ["Congelar"]
+}, {
+    "id": 34,
+    "infinitive": ["Get"],
+    "simple_past": ["Got"],
+    "past_participe": ["Got"],
+    "traduction_fr": ["Obtenir"],
+    "traduction_es": ["Obtener"]
+}, {
+    "id": 35,
+    "infinitive": ["Give"],
+    "simple_past": ["Gave"],
+    "past_participe": ["Given"],
+    "traduction_fr": ["Donner"],
+    "traduction_es": ["Dar"]
+}, {
+    "id": 36,
+    "infinitive": ["Go"],
+    "simple_past": ["Went"],
+    "past_participe": ["Gone"],
+    "traduction_fr": ["Aller"],
+    "traduction_es": ["Ir"]
+}, {
+    "id": 37,
+    "infinitive": ["Grow"],
+    "simple_past": ["Grew"],
+    "past_participe": ["Grown"],
+    "traduction_fr": ["Cultiver", "Grandir"],
+    "traduction_es": ["Cultivar", "Crecer"]
+}, {
+    "id": 38,
+    "infinitive": ["Hang"],
+    "simple_past": ["Hung"],
+    "past_participe": ["Hung"],
+    "traduction_fr": ["Pendre"],
+    "traduction_es": ["Colgar"]
+}, {
+    "id": 39,
+    "infinitive": ["Have"],
+    "simple_past": ["Had"],
+    "past_participe": ["Had"],
+    "traduction_fr": ["Avoir"],
+    "traduction_es": ["Tener"]
+}, {
+    "id": 40,
+    "infinitive": ["Hear"],
+    "simple_past": ["Heard"],
+    "past_participe": ["Heard"],
+    "traduction_fr": ["Entendre"],
+    "traduction_es": ["Escuchar"]
+}, {
+    "id": 41,
+    "infinitive": ["Hide"],
+    "simple_past": ["Hid"],
+    "past_participe": ["Hidden"],
+    "traduction_fr": ["Cacher"],
+    "traduction_es": ["Esconderse"]
+}, {
+    "id": 42,
+    "infinitive": ["Hit", "Strike"],
+    "simple_past": ["Hit", "Struck"],
+    "past_participe": ["Hit", "Struck"],
+    "traduction_fr": ["Frapper"],
+    "traduction_es": ["Golpear"]
+}, {
+    "id": 43,
+    "infinitive": ["Hold"],
+    "simple_past": ["Held"],
+    "past_participe": ["Held"],
+    "traduction_fr": ["Tenir"],
+    "traduction_es": ["Tener"]
+}, {
+    "id": 44,
+    "infinitive": ["Hurt"],
+    "simple_past": ["Hurt"],
+    "past_participe": ["Hurt"],
+    "traduction_fr": ["Nuire"],
+    "traduction_es": ["Danar"]
+}, {
+    "id": 45,
+    "infinitive": ["Keep"],
+    "simple_past": ["Kept"],
+    "past_participe": ["Kept"],
+    "traduction_fr": ["Garder"],
+    "traduction_es": ["Guardar"]
+}, {
+    "id": 46,
+    "infinitive": ["Kneel"],
+    "simple_past": ["Knelt"],
+    "past_participe": ["Knelt"],
+    "traduction_fr": ["Agenouiller"],
+    "traduction_es": ["Arrodillarse"]
+}, {
+    "id": 47,
+    "infinitive": ["Know"],
+    "simple_past": ["Knew"],
+    "past_participe": ["Known"],
+    "traduction_fr": ["Savoir", "Connaitre"],
+    "traduction_es": ["Saber"]
+}, {
+    "id": 48,
+    "infinitive": ["Lay"],
+    "simple_past": ["Laid"],
+    "past_participe": ["Laid"],
+    "traduction_fr": ["Allonger"],
+    "traduction_es": ["Acostar"]
+}, {
+    "id": 49,
+    "infinitive": ["Lead"],
+    "simple_past": ["Led"],
+    "past_participe": ["Led"],
+    "traduction_fr": ["Mener"],
+    "traduction_es": ["Dirigir"]
+}, {
+    "id": 50,
+    "infinitive": ["Swell"],
+    "simple_past": ["Swelled"],
+    "past_participe": ["Swollen", "Swelled"],
+    "traduction_fr": ["Gonfler","Enfler"],
+    "traduction_es": ["Inflar"]
+}, {
+    "id": 51,
+    "infinitive": ["Learn"],
+    "simple_past": ["Learnt", "Learned"],
+    "past_participe": ["Learnt", "Learned"],
+    "traduction_fr": ["Apprendre"],
+    "traduction_es": ["Aprender"]
+}, {
+    "id": 52,
+    "infinitive": ["Leave", "Let"],
+    "simple_past": ["Left", "Lent"],
+    "past_participe": ["Left", "Lent"],
+    "traduction_fr": ["Laisser"],
+    "traduction_es": ["Dejar"]
+}, {
+    "id": 53,
+    "infinitive": ["Lend"],
+    "simple_past": ["Lent"],
+    "past_participe": ["Lent"],
+    "traduction_fr": ["Preter"],
+    "traduction_es": ["Prestar"]
+}, {
+    "id": 54,
+    "infinitive": ["Lie"],
+    "simple_past": ["Lay"],
+    "past_participe": ["Lain"],
+    "traduction_fr": ["Coucher"],
+    "traduction_es": ["Acostarse"]
+}, {
+    "id": 55,
+    "infinitive": ["Light"],
+    "simple_past": ["Lighted", "Lit"],
+    "past_participe": ["Lighted", "Lit"],
+    "traduction_fr": ["Allumer"],
+    "traduction_es": ["Prender"]
+}, {
+    "id": 56,
+    "infinitive": ["Lose"],
+    "simple_past": ["Lost"],
+    "past_participe": ["Lost"],
+    "traduction_fr": ["Perdre"],
+    "traduction_es": ["Perder"]
+}, {
+    "id": 57,
+    "infinitive": ["Mean"],
+    "simple_past": ["Meant"],
+    "past_participe": ["Meant"],
+    "traduction_fr": ["Signifier"],
+    "traduction_es": ["Significar"]
+}, {
+    "id": 58,
+    "infinitive": ["Meet"],
+    "simple_past": ["Met"],
+    "past_participe": ["Met"],
+    "traduction_fr": ["Rencontrer"],
+    "traduction_es": ["Conocer"]
+}, {
+    "id": 59,
+    "infinitive": ["Mistake"],
+    "simple_past": ["Mistook"],
+    "past_participe": ["Mistaken"],
+    "traduction_fr": ["Tromper"],
+    "traduction_es": ["Equivocarse"]
+}, {
+    "id": 60,
+    "infinitive": ["Pay"],
+    "simple_past": ["Paid"],
+    "past_participe": ["Paid"],
+    "traduction_fr": ["Payer"],
+    "traduction_es": ["Pagar"]
+}, {
+    "id": 61,
+    "infinitive": ["Put", "Set"],
+    "simple_past": ["Put", "Set"],
+    "past_participe": ["Put", "Set"],
+    "traduction_fr": ["Mettre"],
+    "traduction_es": ["Poner"]
+}, {
+    "id": 62,
+    "infinitive": ["Read"],
+    "simple_past": ["Read"],
+    "past_participe": ["Read"],
+    "traduction_fr": ["Lire"],
+    "traduction_es": ["leer"]
+}, {
+    "id": 63,
+    "infinitive": ["Ride"],
+    "simple_past": ["Rode"],
+    "past_participe": ["Ridden"],
+    "traduction_fr": ["Monter"],
+    "traduction_es": ["Subir"]
+}, {
+    "id": 64,
+    "infinitive": ["Ring"],
+    "simple_past": ["Rang"],
+    "past_participe": ["Rung"],
+    "traduction_fr": ["Sonner"],
+    "traduction_es": ["Sonar"]
+}, {
+    "id": 65,
+    "infinitive": ["Rise"],
+    "simple_past": ["Rose"],
+    "past_participe": ["Risen"],
+    "traduction_fr": ["Augmenter"],
+    "traduction_es": ["Aumentar"]
+}, {
+    "id": 66,
+    "infinitive": ["Run"],
+    "simple_past": ["Ran"],
+    "past_participe": ["Run"],
+    "traduction_fr": ["Courir"],
+    "traduction_es": ["Corer"]
+}, {
+    "id": 67,
+    "infinitive": ["Say"],
+    "simple_past": ["Said"],
+    "past_participe": ["Said"],
+    "traduction_fr": ["Dire"],
+    "traduction_es": ["Decir"]
+}, {
+    "id": 68,
+    "infinitive": ["See"],
+    "simple_past": ["Saw"],
+    "past_participe": ["Seen"],
+    "traduction_fr": ["Voir"],
+    "traduction_es": ["Ver"]
+}, {
+    "id": 69,
+    "infinitive": ["Sell"],
+    "simple_past": ["Sold"],
+    "past_participe": ["Sold"],
+    "traduction_fr": ["Vendre"],
+    "traduction_es": ["Vender"]
+}, {
+    "id": 70, 
+    "infinitive": ["Send"],
+    "simple_past": ["Sent"],
+    "past_participe": ["Sent"],
+    "traduction_fr": ["Envoyer"],
+    "traduction_es": ["Enviar"]
+}, {
+    "id": 71,
+    "infinitive": ["Shake"],
+    "simple_past": ["Shook"],
+    "past_participe": ["Shaken"],
+    "traduction_fr": ["Secouer"],
+    "traduction_es": ["Sacudir"]
+}, {
+    "id": 72, 
+    "infinitive": ["Show"],
+    "simple_past": ["Showed"],
+    "past_participe": ["Shown", "Showed"],
+    "traduction_fr": ["Montrer"],
+    "traduction_es": ["Mostrar"]
+}, {
+    "id": 73,
+    "infinitive": ["Shut"],
+    "simple_past": ["Shut"],
+    "past_participe": ["Shut"],
+    "traduction_fr": ["Fermer"],
+    "traduction_es": ["Cerrar"]
+}, {
+    "id": 74,
+    "infinitive": ["Sing"],
+    "simple_past": ["Sang"],
+    "past_participe": ["Sung"],
+    "traduction_fr": ["Danser"],
+    "traduction_es": ["Bailar"]
+}, {
+    "id": 75,
+    "infinitive": ["Sink"],
+    "simple_past": ["Sank"],
+    "past_participe": ["Sunk"],
+    "traduction_fr": ["Enfoncer"],
+    "traduction_es": ["Empujar"]
+}, {
+    "id": 76,
+    "infinitive": ["Sit"],
+    "simple_past": ["Sat"],
+    "past_participe": ["Sat"],
+    "traduction_fr": ["Asseoir"],
+    "traduction_es": ["Sentarse"]
+}, {
+    "id": 77,
+    "infinitive": ["Sleep"],
+    "simple_past": ["Slept"],
+    "past_participe": ["Slept"],
+    "traduction_fr": ["Dormir"],
+    "traduction_es": ["Dormir"]
+}, {
+    "id": 78,
+    "infinitive": ["Slide"],
+    "simple_past": ["Slid"],
+    "past_participe": ["Slid", "Slidden"],
+    "traduction_fr": ["Glisser"],
+    "traduction_es": ["Resbalar"]
+}, {
+    "id": 79,
+    "infinitive": ["Speak"],
+    "simple_past": ["Spoke"],
+    "past_participe": ["Spoken"],
+    "traduction_fr": ["Parler"],
+    "traduction_es": ["Hablar"]
+}, {
+    "id": 80,
+    "infinitive": ["Spell"],
+    "simple_past": ["Spelt"],
+    "past_participe": ["Spelt"],
+    "traduction_fr": ["Epeler"],
+    "traduction_es": ["Deletrear"]
+}, {
+    "id": 81,
+    "infinitive": ["Spend"],
+    "simple_past": ["Spent"],
+    "past_participe": ["Spent"],
+    "traduction_fr": ["Depenser"],
+    "traduction_es": ["Gastar"]
+}, {
+    "id": 82,
+    "infinitive": ["Spill"],
+    "simple_past": ["Spilt"],
+    "past_participe": ["Spilt"],
+    "traduction_fr": ["Renverser"],
+    "traduction_es": ["Derramando"]
+}, {
+    "id": 83,
+    "infinitive": ["Spread"],
+    "simple_past": ["Spread"],
+    "past_participe": ["Spread"],
+    "traduction_fr": ["Etendre"],
+    "traduction_es": ["Expendir"]
+}, {
+    "id": 84,
+    "infinitive": ["Stand"],
+    "simple_past": ["Stood"],
+    "past_participe": ["Stood"],
+    "traduction_fr": ["Lever"],
+    "traduction_es": ["Levantar"]
+}, {
+    "id": 85,
+    "infinitive": ["Sting"],
+    "simple_past": ["Stung"],
+    "past_participe": ["Stung"],
+    "traduction_fr": ["Piquer"],
+    "traduction_es": ["Picar"]
+}, {
+    "id": 86,
+    "infinitive": ["Sweep"],
+    "simple_past": ["Swept"],
+    "past_participe": ["Swept"],
+    "traduction_fr": ["Balayer"],
+    "traduction_es": ["Barrer"]
+}, {
+    "id": 87,
+    "infinitive": ["Swim"],
+    "simple_past": ["Swam"],
+    "past_participe": ["Swum"],
+    "traduction_fr": ["Nager"],
+    "traduction_es": ["Nadar"]
+}, {
+    "id": 88,
+    "infinitive": ["Swing"],
+    "simple_past": ["Swung"],
+    "past_participe": ["Swung"],
+    "traduction_fr": ["Balancer"],
+    "traduction_es": ["Balancear"]
+}, {
+    "id": 89,
+    "infinitive": ["Take"],
+    "simple_past": ["Took"],
+    "past_participe": ["Taken"],
+    "traduction_fr": ["Prendre"],
+    "traduction_es": ["Agarar"]
+}, {
+    "id": 90,
+    "infinitive": ["Teach"],
+    "simple_past": ["Taught"],
+    "past_participe": ["Taught"],
+    "traduction_fr": ["Enseigner"],
+    "traduction_es": ["Ensenar"]
+}, {
+    "id": 91,
+    "infinitive": ["Tear"],
+    "simple_past": ["Tore"],
+    "past_participe": ["Torn"],
+    "traduction_fr": ["Dechirer"],
+    "traduction_es": ["Romper"]
+}, {
+    "id": 92,
+    "infinitive": ["Tell"],
+    "simple_past": ["Told"],
+    "past_participe": ["Told"],
+    "traduction_fr": ["Raconter"],
+    "traduction_es": ["Contar"]
+}, {
+    "id": 93,
+    "infinitive": ["Think"],
+    "simple_past": ["Thought"],
+    "past_participe": ["Thought"],
+    "traduction_fr": ["Penser"],
+    "traduction_es": ["Pensar"]
+}, {
+    "id": 94,
+    "infinitive": ["Throw"],
+    "simple_past": ["Threw"],
+    "past_participe": ["Thrown"],
+    "traduction_fr": ["Jeter"],
+    "traduction_es": ["Tirar"]
+}, {
+    "id": 95,
+    "infinitive": ["Understand"],
+    "simple_past": ["Understood"],
+    "past_participe": ["Understood"],
+    "traduction_fr": ["Comprendre"],
+    "traduction_es": ["Comprender"]
+}, {
+    "id": 96,
+    "infinitive": ["Wake"],
+    "simple_past": ["Woke"],
+    "past_participe": ["Woken"],
+    "traduction_fr": ["Reveiller"],
+    "traduction_es": ["Despertar"]
+}, {
+    "id": 97,
+    "infinitive": ["Wear"],
+    "simple_past": ["Wore"],
+    "past_participe": ["Worn"],
+    "traduction_fr": ["Porter"],
+    "traduction_es": ["Llevar"]
+}, {
+    "id": 98,
+    "infinitive": ["Weep"],
+    "simple_past": ["Wept"],
+    "past_participe": ["Wept"],
+    "traduction_fr": ["Pleurer"],
+    "traduction_es": ["Llorar"]
+}, {
+    "id": 99,
+    "infinitive": ["Wet"],
+    "simple_past": ["Wet"],
+    "past_participe": ["Wet"],
+    "traduction_fr": ["Mouiller"],
+    "traduction_es": ["Mojar"]
+}, {
+    "id": 100,
+    "infinitive": ["Win"],
+    "simple_past": ["Won"],
+    "past_participe": ["Won"],
+    "traduction_fr": ["Gagner"],
+    "traduction_es": ["Ganar"]
+}, {
+    "id": 101,
+    "infinitive": ["Write"],
+    "simple_past": ["Wrote"],
+    "past_participe": ["Written"],
+    "traduction_fr": ["Ecrire"],
+    "traduction_es": ["Escribir"]
+}, {
+    "id": 102,
+    "infinitive": ["Spoil"],
+    "simple_past": ["Spoiled", "Spoilt"],
+    "past_participe": ["Spoiled", "Spoilt"],
+    "traduction_fr": ["Gacher"],
+    "traduction_es": ["Estropear"]
+}, {
+    "id": 103,
+    "infinitive": ["Bear"],
+    "simple_past": ["Bore", "Bare"],
+    "past_participe": ["Borne", "Born"],
+    "traduction_fr": ["Supporter"],
+    "traduction_es": ["Soportar"]
+}, {
+    "id": 104,
+    "infinitive": ["Creep"],
+    "simple_past": ["Crept"],
+    "past_participe": ["Crept"],
+    "traduction_fr": ["Ramper"],
+    "traduction_es": ["Gatear"]
+}, {
+    "id": 105,
+    "infinitive": ["Flee"],
+    "simple_past": ["Fled"],
+    "past_participe": ["Fled"],
+    "traduction_fr": ["Fuir"],
+    "traduction_es": ["Escapar"]
+}, {
+    "id": 106,
+    "infinitive": ["Forbid"],
+    "simple_past": ["Forbade"],
+    "past_participe": ["Forbidden"],
+    "traduction_fr": ["Interdire"],
+    "traduction_es": ["Prohibir"]
+}, {
+    "id": 107,
+    "infinitive": ["Mow"],
+    "simple_past": ["Mowed"],
+    "past_participe": ["Mown"],
+    "traduction_fr": ["Faucher"],
+    "traduction_es": ["Segar"]
+}, {
+    "id": 108,
+    "infinitive": ["Shine"],
+    "simple_past": ["Shone", "Shined"],
+    "past_participe": ["Shone", "Shined"],
+    "traduction_fr": ["Briller"],
+    "traduction_es": ["Brillar"]
+}, {
+    "id": 109,
+    "infinitive": ["Shoot"],
+    "simple_past": ["Shot"],
+    "past_participe": ["Shot"],
+    "traduction_fr": ["Tirer"],
+    "traduction_es": ["Tirar"]
+}, {
+    "id": 110,
+    "infinitive": ["Smell"],
+    "simple_past": ["Smelt"],
+    "past_participe": ["Smelt"],
+    "traduction_fr": ["Sentir"],
+    "traduction_es": ["Sentir"]
+}, {
+    "id": 111,
+    "infinitive": ["Sow"],
+    "simple_past": ["Sowed"],
+    "past_participe": ["Smelt", "Sowed"],
+    "traduction_fr": ["Semer"],
+    "traduction_es": ["Sembrar"]
+}, {
+    "id": 112,
+    "infinitive": ["Cling"],
+    "simple_past": ["Clung"],
+    "past_participe": ["Clung"],
+    "traduction_fr": ["Accrocher"],
+    "traduction_es": ["Enganchar"]
+}, {
+    "id": 113,
+    "infinitive": ["Dig"],
+    "simple_past": ["Dug"],
+    "past_participe": ["Dug"],
+    "traduction_fr": ["Becher"],
+    "traduction_es": ["Cavar"]
+}, {
+    "id": 114,
+    "infinitive": ["Swear"],
+    "simple_past": ["Swore"],
+    "past_participe": ["Sworn"],
+    "traduction_fr": ["Jurer"],
+    "traduction_es": ["Jurar"]
+}, {
+    "id": 115,
+    "infinitive": ["Deal"],
+    "simple_past": ["Dealt"],
+    "past_participe": ["Dealt"],
+    "traduction_fr": ["Distribuer"],
+    "traduction_es": ["Distribuir"]
+}, {
+    "id": 116,
+    "infinitive": ["Bet"],
+    "simple_past": ["Bet"],
+    "past_participe": ["Bet"],
+    "traduction_fr": ["Parier"],
+    "traduction_es": ["Apostar"]
+}, {
+    "id": 117, 
+    "infinitive": ["Dwell"],
+    "simple_past": ["Dwelled", "Dwelt"],
+    "past_participe": ["Dwelled", "Dwelt"],
+    "traduction_fr": ["Rester"],
+    "traduction_es": ["Quedarse"]
+}, {
+    "id": 118,
+    "infinitive": ["Knit"],
+    "simple_past": ["Knited", "Knit"],
+    "past_participe": ["Knited", "Knit"],
+    "traduction_fr": ["Tricoter"],
+    "traduction_es": ["Tejer"]
+}]
