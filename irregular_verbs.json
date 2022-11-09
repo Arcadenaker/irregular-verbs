@@ -1,5 +1,5 @@
 [{
-    "id": "0",
+    "id": 0,
     "infinitive": ["Be"],
     "simple_past": ["Was", "Were"],
     "past_participe": ["Been"],
